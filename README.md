@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Моя практична робота №2</title>
+
 </head>
 <body>
 <h1>Здавання нормативів у армії</h1>
