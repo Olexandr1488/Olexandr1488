@@ -32,7 +32,7 @@
 <h2>Зображення та відео з здавання нормативів</h2>
 <img src="C:\Users\sasha\OneDrive\Рабочий стол\asd\soldati 1.jpg"  width="300" height="200" />
 <br/>
-<iframe width="560" height="315" src="C:\Users\sasha\OneDrive\Рабочий стол\asd\video1.mp4" frameborder="0" allowfullscreen></iframe>
+
 
 </body>
 </html>
